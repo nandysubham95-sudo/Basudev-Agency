@@ -1,0 +1,23 @@
+{
+  "name": "basudev-agency",
+  "version": "1.0.0",
+  "description": "Basudev Agency - Cold Drinks & Snacks E-Commerce Website",
+  "main": "app.js",
+  "scripts": {
+    "start": "open index.html",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "ecommerce",
+    "cold-drinks",
+    "snacks",
+    "shopping",
+    "order-management"
+  ],
+  "author": "Basudev Agency",
+  "license": "proprietary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nandysubham95-sudo/basudev-agency.git"
+  }
+}
